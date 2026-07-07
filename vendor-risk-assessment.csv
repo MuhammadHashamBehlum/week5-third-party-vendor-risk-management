@@ -1,0 +1,5 @@
+Vendor,Service,Data Accessed,Risk Level,Key Security Controls Required,Monitoring Frequency
+Microsoft Azure,Cloud hosting and infrastructure,"Student records, application databases, employee information, backups",High,"MFA, encryption, network segmentation, vulnerability management, backup verification","Quarterly security review and annual reassessment"
+Stripe,Online payment processing,"Payment transactions, customer billing information, transaction history",High,"PCI DSS compliance, encryption, fraud monitoring, strong authentication, continuous transaction monitoring","Quarterly review and compliance verification"
+Microsoft 365,"Email, file storage, and collaboration","Internal emails, documents, calendars, shared files",Medium,"MFA, email filtering, DLP, secure configuration, audit logging","Quarterly review"
+Managed IT Support Provider,"Endpoint management, remote administration, technical support","Administrative accounts, user devices, system configurations",High,"PAM, least privilege, endpoint protection, session logging, regular access reviews","Monthly monitoring and annual audit"
